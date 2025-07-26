@@ -1,6 +1,7 @@
 # Face Detector Android App
 
-This is a simple Android application that demonstrates **real-time face detection** using the **CameraX API** and **ML Kit's Face Detection model**, with Jetpack Compose UI. The app also supports face detection from a static image as a test mode.
+This is a simple Android application that demonstrates **real-time face detection** using the **CameraX API** and **ML Kit's Face Detection model**, with Jetpack Compose UI. The app also supports face detection from a static image as a test mode.  
+Test Video is in the **Result_Videos** Directory
 
 ---
 
